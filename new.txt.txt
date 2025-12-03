@@ -1,3 +1,4 @@
 this is new file
 just adding something new
-another new sentence successfully pushed
+bug fixed
+bug fixed
